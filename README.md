@@ -1,27 +1,29 @@
-# 🌤️ Responsive Weather App
+# 🌤️ Weather App
 
-This project is a **responsive Weather App** built using **HTML, CSS, and JavaScript**, which fetches real-time weather data from the **OpenWeatherMap API**. It provides users with detailed weather insights for any city they search.
+This project is a **Weather App** built using **HTML, CSS, and JavaScript**, which fetches real-time weather data from the **OpenWeatherMap API**. It provides users with detailed weather insights for any city they search.
+
+## 📸 Screenshots
+
+
 
 ## 🚀 Features
 
 - Real-time weather data fetching using OpenWeatherMap API
-- Responsive design (mobile-friendly)
 - Displays:
   - City and country name
   - Temperature
   - Weather description with dynamic weather icon
-  - Feels like temperature
   - Humidity
-  - Pressure
   - Wind speed
-  - Sunrise and sunset time
+  - Visibility
+  - Pressure
 - Error handling for invalid city input
-- Animated card reveal for weather data
+- Animated card reveal for weather data and dynamic background
 
 ## 🛠️ Tech Stack
 
 - HTML5
-- CSS3 (Flexbox, Transitions, Media Queries)
+- CSS3 (Flexbox, Transitions, Animations)
 - JavaScript (Fetch API, DOM manipulation)
 - OpenWeatherMap API
 
@@ -38,19 +40,18 @@ This project is a **responsive Weather App** built using **HTML, CSS, and JavaSc
 
 ```
 /weather-app
+├── assets
+|    ├── animations
+|    └── icons
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
 ```
 
-## 📸 Screenshots
-
-Add screenshots here after development for better engagement.
-
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is made for learning and academic purpose.
 
 ## 🙌 Acknowledgements
 
