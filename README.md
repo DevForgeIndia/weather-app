@@ -4,8 +4,8 @@ This project is a **Weather App** built using **HTML, CSS, and JavaScript**, whi
 
 ## 📸 Screenshots
 
-[Preview 1](./preview.png)
-[Preview 2](./preview_2.png)
+![Preview 1](preview.png)
+![Preview 2](preview_2.png)
 
 ## 🚀 Features
 
