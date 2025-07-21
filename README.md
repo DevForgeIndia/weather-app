@@ -32,7 +32,7 @@ This project is a **Weather App** built using **HTML, CSS, and JavaScript**, whi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/DevForgeIndia/weather-app.git
    ```
 2. Open `index.html` in your browser.
 3. Replace the `apiKey` in `script.js` with your own [OpenWeatherMap API key](https://openweathermap.org/api).
